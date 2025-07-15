@@ -1,3 +1,5 @@
+<img width="1478" height="787" alt="Screenshot 2025-07-15 160946" src="https://github.com/user-attachments/assets/b3c08355-525a-465f-b1fc-4b18429c6641" />
+
 # HR Analytics Dashboard (Tableau)
 
 This project visualizes employee attrition trends using Tableau. It provides strategic insights across age, gender, department, education, and job satisfaction.
